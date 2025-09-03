@@ -1,0 +1,25 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IPython profile files
+profile_default/
+
+# Python bytecode and compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Python virtual environments
+venv/
+env/
+.venv/
+
+# Python package build directories
+build/
+dist/
+*.egg-info/
+
+# Other common files
+.env
+.env.local
+debug.log
